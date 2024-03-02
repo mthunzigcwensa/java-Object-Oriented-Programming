@@ -1,0 +1,6 @@
+Payment Slip
+
+User Email: user@gmail.com
+Total Cost: R180.0
+Cash Amount: R200.0
+Change: R20.0
